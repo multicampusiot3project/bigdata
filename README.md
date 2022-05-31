@@ -26,32 +26,6 @@
 5. 매장내 위치정보 만들기(각 상품별 코너 위치)
 
 ---
-
-# 수어영상 한글 번역기
-## 목적
-* 수어를 모르는 사람과 청각 장애인 간의 원활한 의사 소통을 돕는다
-
-## 방향
-* 제품 이미지 학습 및 쇼핑 경로 안내
-
-## 수행방법 및 도구
-* 라이브러리 :Python + jupyter lab, matplotlib, numpy, pandas, seaborn, selenium
-* DB : MongoDB
-
-## 필수기능
-
-수어 이미지 데이터 정제 :
-단어와 문장 형태의 수어 이미지 데이터 분석 및 시각화.
-여러 데이터셋을 수집 후 전처리.
-
-수어 문장과 한글 문장 pair로 구성.
-
-
-## 요구사항 
-위치 데이터 없는경우-mediapipe, opencv, openpose 사용해서 분석
-coco나mpii사용해서 body값 추출하고 거기에 
-손keypoints들 추가로 더해서 bodyparts, pose pair만들기?
-
 ## 주제선정배경/선정이유
 https://legendary-open-e74.notion.site/3e326b452edf46f88d4164ff16fea79b
 
