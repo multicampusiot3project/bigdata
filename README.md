@@ -71,3 +71,8 @@ https://kosis.kr/statHtml/statHtml.do?orgId=117&tblId=DT_11732S0120&conn_path=I2
 시각장애인은 소비자 아닌가요?… 온라인커머스 3사, 접근성 개선 명령 불복
  박예지 기자 승인 2021.04.05 17:09
 https://www.socialfocus.co.kr/news/articleView.html?idxno=9842
+
+유투브 - 월스트리트 애널리스트자기님(시각장애인의 사회진출) https://youtu.be/tXzjX95bkSI
+
+요약: 시각 장애인을 처음 교육하는 선생님들이 항상 방법을 찾아보자 라는 태도로 접근 
+- 우리도 시각장애인분들이 사회로 나올 수 있는 방법을 찾아보자라는 관점으로 시작했다. 
