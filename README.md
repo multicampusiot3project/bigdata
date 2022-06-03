@@ -16,7 +16,7 @@
 
 * 라이브러리: beautifulSoup(크롤링),selenium, pandas(데이터 정제), matplotlib, seaborn(시각화)
 * API : 네이버지도API(위치정보)
-* DB : MongoDB
+* DB : Mysql
 
 ## 필수기능
 1. 사용자 위치 인식 - 어떤 마트에 와있는지 위치 정보 가지고 오기.
